@@ -1,3 +1,3 @@
 # hello-world
 my first repository in github
-my name is zhang lim, everyone can call me lim for short.
+my name is zhang lim, I was bornn in Shandong and living in Tianjin, now working in Beijing.
